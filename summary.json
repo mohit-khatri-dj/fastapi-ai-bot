@@ -1,0 +1,28 @@
+{
+    "person_name": "Madhuban Khatri",
+    "gender": "Male",
+    "years_of_experience": 2,
+    "previous_company": "Reliable Soft Technologies",
+    "linkedin_url": "https://www.linkedin.com/in/madhuban-khatri/",
+    "github_url": "https://github.com/MadhubanKhatri",
+    "email": "madhuban211998@gmail.com",
+    "contact_number": "+91-7568170690",
+    "skills": ["Python", "Django", "FastAPI", "ReactJS", "JavaScript", "LangChain", "RAG", "Web Development"],
+    "education": [{
+        "degree": "Master of Computer Applications",
+        "institution": "Aishwarya College of Education, Jodhpur",
+        "graduation_year": 2026
+    }, {
+        "degree": "Bechlor of Science (Mathematics)",
+        "institution": "Jai Narain Vyas University, Jodhpur",
+        "graduation_year": 2021
+    }],
+    "personal_projects": [{
+        "name": "Movie Booking Website"
+    }, {
+        "name": "Text to SQL tool"
+    }, {
+        "name": "Video Sharing Website"
+    }]
+
+}
