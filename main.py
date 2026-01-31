@@ -6,7 +6,8 @@ from chatbot import chain, context
 app = FastAPI()
 
 origins = [
-    "http://localhost:5173"
+    "http://localhost:5173",
+    "https://madhuban-khatri.onrender.com/"
 ]
 
 app.add_middleware(
