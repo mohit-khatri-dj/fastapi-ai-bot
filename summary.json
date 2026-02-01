@@ -7,7 +7,7 @@
     "github_url": "https://github.com/MadhubanKhatri",
     "email": "madhuban211998@gmail.com",
     "contact_number": "+91-7568170690",
-    "skills": ["Python", "Django", "FastAPI", "ReactJS", "JavaScript", "LangChain", "RAG", "Web Development"],
+    "skills": ["Python", "Django", "FastAPI", "ReactJS", "JavaScript","PostgreSQL", "MS SQL", "LangChain", "RAG", "Web Development", "Git"],
     "education": [{
         "degree": "Master of Computer Applications",
         "institution": "Aishwarya College of Education, Jodhpur",
